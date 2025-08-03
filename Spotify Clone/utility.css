@@ -1,0 +1,45 @@
+.display {
+    display: flex;
+}
+
+.justify-items {
+    justify-content: center;
+}
+
+.txtalign {
+    text-align: center;
+}
+
+.bg-grey {
+    background-color: #121212;
+    color: white;
+}
+
+.filter {
+    filter: invert(1);
+}
+
+.m1 {
+    margin: 10px;
+}
+
+.p1 {
+    padding: 10px;
+}
+
+/* Play button svg properties */
+.play {
+    width: 50px;
+    height: 50px;
+    background-color: #1fdf64;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle-box svg {
+    width: 50%;
+    height: 50%;
+    stroke: black;
+}
